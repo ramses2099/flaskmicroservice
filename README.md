@@ -21,3 +21,7 @@ Python flask microservice
 Flask-SQLAlchemy is an extension for Flask that adds support for SQLAlchemy to your application. It simplifies using SQLAlchemy with Flask by setting up common objects and patterns for using those objects, such as a session tied to each web request, models, and engines.
 
 # install boostrap
+
+# create database
+
+db.create_all()
